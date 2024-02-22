@@ -1,4 +1,4 @@
-Housing Prices Prediction Project:
+                                                       Housing Prices Prediction Project
 This project aims to predict the sales prices of residential homes in Ames, Iowa, using the Ames Housing dataset provided by Dean De Cock for data science education. The goal is to develop a predictive model that accurately estimates the final price of each house based on various explanatory variables.
 
 Data Source:
